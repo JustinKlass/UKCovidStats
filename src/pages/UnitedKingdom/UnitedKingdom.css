@@ -1,0 +1,10 @@
+.rowDiv {
+    display:flex;
+    margin-top: 3%;
+}
+
+#container {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}

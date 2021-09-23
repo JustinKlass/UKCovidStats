@@ -1,0 +1,19 @@
+.statsContainer {
+    width: 45%;
+    margin-top: 1em;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-top: 0.15em solid black;
+}
+
+.statLabel {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.statData {
+    font-size: 1.5em;
+}
+
+.statsDiv {
+    margin-top: 1em;
+}
